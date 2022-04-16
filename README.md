@@ -48,5 +48,3 @@ Start time: 5:30
 Finish time: 6:05
 
 Actual time needed to complete:35min
-
-`
