@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@iconify-icons/logos": "^1.2.23",
     "bootstrap": "^4.6.1",
     "jquery": "^3.6.0",
     "react": "^18.0.0",
