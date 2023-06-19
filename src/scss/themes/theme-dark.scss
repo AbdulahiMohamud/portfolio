@@ -65,6 +65,35 @@ body[data-theme="dark"] {
          color: white;
       }
    }
+   #skills {
+      
+      background: #5b5b5b;
+      .section-title {
+         color: white !important;
+      }
+      .skill-icon {
+         color: white;
+         
+      }
+      
+   }
+   
+   // .section-title {
+   //    padding-top: 5%;
+   //    padding-bottom: 5%;
+   //    font: 18px/24px 'opensans-bold', sans-serif;
+   //    text-transform: uppercase;
+   //    letter-spacing: 3px;
+   //    color: black;
+   //    text-align: center;
+   // }
+   
+   .skill-icon {
+      font-size: 180%;
+      color: white;
+      text-align: center;
+      position: relative;
+   }
 
    #resume {
       filter: brightness(80%);

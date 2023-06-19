@@ -38,7 +38,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color:  purple;
+	background-color:  wheat;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -231,7 +231,10 @@ about
 }
 
 #resume {
-	background: #efe1bd;
+	border: 10px solid black;
+	border-top: 0px;
+	background: wheat;
+	
 }
 
 .experience-icon {
@@ -353,7 +356,8 @@ about
 }
 
 #portfolio {
-	background:  #46dded;
+	border: 10px solid black;
+	background:  wheat;
 	padding-bottom: 5%;
 }
 
@@ -389,26 +393,29 @@ about
 }
 
 #skills {
-	background: red;
+	border: 10px solid black;
+	border-top: 0px;
+	background: wheat;
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
 	padding-bottom: 10%;
+	.section-title {
+		padding-top: 5%;
+		padding-bottom: 5%;
+		font: 18px/24px 'opensans-bold', sans-serif;
+		text-transform: uppercase;
+		letter-spacing: 3px;
+		color: black;
+		text-align: center;
+	}
 }
 
-.section-title {
-	padding-top: 5%;
-	padding-bottom: 5%;
-	font: 18px/24px 'opensans-bold', sans-serif;
-	text-transform: uppercase;
-	letter-spacing: 3px;
-	color: black;
-	text-align: center;
-}
+
 
 .skill-icon {
 	font-size: 180%;
-	color: blue;
+	color: saddlebrown;
 	text-align: center;
 	position: relative;
 }
