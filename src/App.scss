@@ -17,6 +17,8 @@ html {
 
 .title-container {
 	height: 50px;
+	font-size: large;
+
 }
 
 .title-styles {
@@ -400,18 +402,17 @@ about
 	width: 100%;
 	overflow: hidden;
 	padding-bottom: 10%;
-	.section-title {
-		padding-top: 5%;
-		padding-bottom: 5%;
-		font: 18px/24px 'opensans-bold', sans-serif;
-		text-transform: uppercase;
-		letter-spacing: 3px;
-		color: black;
-		text-align: center;
-	}
 }
 
-
+.section-title {
+	padding-top: 5%;
+	padding-bottom: 5%;
+	font: 18px/24px 'opensans-bold', sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	color: black;
+	text-align: center;
+}
 
 .skill-icon {
 	font-size: 180%;

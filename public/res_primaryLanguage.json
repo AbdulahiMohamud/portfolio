@@ -15,8 +15,9 @@
         "startDate": "2022",
         "description": "Android application used to help user track BMI and weight loss while giving then workouts to do and has Built in gps to locate and route to nearest gym, park or supplements store",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/betterMe/img.png",
+          "images/portfolio/betterMe/signup.png",
+          "images/portfolio/betterMe/update info.JPG"
         ],
         "url": "https://github.com/TeamWondrs/betterMe",
         "technologies": [
@@ -31,8 +32,8 @@
         "startDate": "2022",
         "description": "Java buit full-stack livecommunication web app that scalable to over 10,000+ users and allows users to follow and chat with other users. uses multiple RESTFUL APIs to populate data to help user experience. ",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/gwiter/gwiterlogo2.png"
+          
         ],
         "url": "https://github.com/DreamTeam-Java/Gwitr",
         "technologies": [
@@ -43,14 +44,14 @@
         ]
       },
       {
-        "title": "GoodTimes",
+        "title": "NextMeal",
         "startDate": "2022",
-        "description": "Full stack web application to help users find fun destinations and gives them the prices and location. User can save or delete location",
+        "description": "NextMeal is a dynamic web application built using Java and Reactjs that helps users explore and discover delicious dining options. It provides comprehensive information about restaurants, including menu items, prices, and locations. With NextMeal, users can easily find their next culinary adventure and save their favorite spots for future visits.",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
         ],
-        "url": "https://github.com/Final301DreamTeam",
+        "url": "https://github.com/AbdulahiMohamud/NexMeal  && https://github.com/AbdulahiMohamud/NexMeal_Backend",
         "technologies": [
           {
             "class": "devicon-html5-plain",
