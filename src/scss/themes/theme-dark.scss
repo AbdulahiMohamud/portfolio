@@ -9,9 +9,14 @@ body[data-theme="dark"] {
    .title-styles {
       color: white;
    }
+   .title-container {
+      color: crimson;
+      font-size: large;
+
+  }
 
    .header-icon {
-      color: #3C342C;
+      color: crimson;
       opacity: 0.8;
    }
 
@@ -78,15 +83,6 @@ body[data-theme="dark"] {
       
    }
    
-   // .section-title {
-   //    padding-top: 5%;
-   //    padding-bottom: 5%;
-   //    font: 18px/24px 'opensans-bold', sans-serif;
-   //    text-transform: uppercase;
-   //    letter-spacing: 3px;
-   //    color: black;
-   //    text-align: center;
-   // }
    
    .skill-icon {
       font-size: 180%;
