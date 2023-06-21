@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I am Abdulahi Mohamud, a full-stack software developer based in Seattle with a background in cybersecurity. I am skilled in programming languages such as Java, JavaScript, HTML, CSS, and Markdown, and I am also fluent in Somali, Arabic, and Kiswahili. I have experience in designing, testing, and deploying software programs and applications, as well as troubleshooting and debugging existing software. I have worked on several projects, including an Android application to track BMI and weight loss, a full-stack communication web app, and a full-stack web application to help users find fun destinations. I hold a Bachelor of Science degree in Computer Science from Washington University and have completed a certificate in Advanced Software Development in Java with SpringMVC & Android from Code Fellows, as well as an Associate of Science degree in Network Security Admin from Highline College.",
+      "description": "👋 Greetings! I'm Abdulahi Mohamud, a Seattle-based full-stack software developer with a strong background in cybersecurity. My expertise lies in programming languages like Java, JavaScript, HTML, CSS, and Markdown. Additionally, I'm proficient in Somali, Arabic, and Kiswahili. I possess a track record of designing, testing, and deploying software programs and applications, coupled with extensive experience in troubleshooting and debugging existing software. Notable projects I've worked on include an Android application for BMI and weight loss tracking, a comprehensive full-stack communication web app, and a dynamic full-stack web application that assists users in discovering and sharing exciting recipes with other users. My qualifications encompass an Advanced Software Development certificate in Java with SpringMVC & Android from Code Fellows, along with an Associate of Science degree in Network Security Admin attained from Highline College.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -12,9 +12,10 @@
     "projects": [
       {
         "title": "BetterMe",
-        "startDate": "2022",
+        "startDate": "",
         "description": "Android application used to help user track BMI and weight loss while giving then workouts to do and has Built in gps to locate and route to nearest gym, park or supplements store",
         "images": [
+          "images/portfolio/betterMe/bigbettermelogo.jpg",
           "images/portfolio/betterMe/img.png",
           "images/portfolio/betterMe/signup.png",
           "images/portfolio/betterMe/update info.JPG"
@@ -24,6 +25,10 @@
           {
             "class": "devicon-java-plain",
             "name": "JAVA"
+          },
+          {
+            "name": "Android Studio",
+            "class": "devicon-android-plain"
           }
         ]
       },
@@ -38,6 +43,10 @@
         "url": "https://github.com/DreamTeam-Java/Gwitr",
         "technologies": [
           {
+            "name": "Spring",
+            "class": "devicon-spring-plain"
+          },
+          {
             "class": "devicon-java-plain",
             "name": "JAVA"
           }
@@ -48,22 +57,27 @@
         "startDate": "2022",
         "description": "NextMeal is a dynamic web application built using Java and Reactjs that helps users explore and discover delicious dining options. It provides comprehensive information about restaurants, including menu items, prices, and locations. With NextMeal, users can easily find their next culinary adventure and save their favorite spots for future visits.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/nexMeal/NexMeal_Log.png",
           "images/portfolio/adventure/p2.jpg"
         ],
-        "url": "https://github.com/AbdulahiMohamud/NexMeal  && https://github.com/AbdulahiMohamud/NexMeal_Backend",
+        "url": "https://github.com/AbdulahiMohamud/NexMeal",
         "technologies": [
           {
-            "class": "devicon-html5-plain",
-            "name": "HTML 5"
+            "name": "CSS",
+            "class": "devicon-css3-plain",
+            "level": "95"
           },
           {
-            "class": "devicon-sass-original",
-            "name": "Sass"
+            "class": "devicon-java-plain",
+            "name": "JAVA"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "name": "Spring",
+            "class": "devicon-spring-plain"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React"
           }
         ]
       }
