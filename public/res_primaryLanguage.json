@@ -42,10 +42,7 @@
         ],
         "url": "https://github.com/DreamTeam-Java/Gwitr",
         "technologies": [
-          {
-            "name": "Spring",
-            "class": "devicon-spring-plain"
-          },
+          
           {
             "class": "devicon-java-plain",
             "name": "JAVA"
@@ -70,10 +67,6 @@
           {
             "class": "devicon-java-plain",
             "name": "JAVA"
-          },
-          {
-            "name": "Spring",
-            "class": "devicon-spring-plain"
           },
           {
             "class": "devicon-react-original",
