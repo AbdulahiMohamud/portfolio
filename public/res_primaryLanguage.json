@@ -85,7 +85,7 @@
         ],
         "technologies": [
           "Team skills",
-          "Wrok well under presure",
+          "Work well under presure",
           "Communication",
           "Accountability"
         ]
@@ -99,10 +99,11 @@
         ],
         "technologies": [
           "Team skills",
-          "Troubleshooting, debugging, maintaining and improving existing software",
+          "Troubleshooting", "Debugging", "Maintaining" ,"Improving existing software",
           "Testing and deploying programs and applications",
           "Communication",
-          "Designing algorithms and flowcharts to create new software programs and systems"
+          "Designing algorithms and flowcharts",
+          "Create new software programs and systems"
         ]
       }
       
